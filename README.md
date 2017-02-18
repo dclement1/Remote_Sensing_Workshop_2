@@ -20,5 +20,5 @@
 -Below we have an image of the point cloud of our data. The different colours represent various elevations. 
 ![PointCloud](Point_Cloud_1.JPG)
 
--Below we have a zoomed in version of the point cloud. 
+-Below we have a zoomed in version of the point cloud showing just how dense the points are. 
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
