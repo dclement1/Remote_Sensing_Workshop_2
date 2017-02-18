@@ -29,7 +29,7 @@
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
 
 
-- Finally below we have an interactive form of the point cloud which you can manipulate and see from any angle and zoom in on. Please play with this to gain a better understanding of the point cloud concept. 
+- Below we have an interactive form of the point cloud, which you can manipulate and see from any angle and zoom in on. Please play with this to gain a better understanding of the point cloud concept. 
 <iframe width="560" height="315" src="https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
