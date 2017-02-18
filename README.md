@@ -1,8 +1,8 @@
 # Shelburne Falls, MA, U.S.A.
 ### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events,depicted in the video below, and having a better picture of specific areas which could be problematic in future flood events, could be extremely beneficial. 
-* ##### The subset of the data used in this project was generated from a larger data set named: "2012 FEMA Topographic Lidar: Hudson-Hoosic and Deerfield Watersheds, Massachusetts" which was obtained from The National Oceanic and Atmospheric Administration (NOAA), specifically thier website at the following adress: https://coast.noaa.gov/dataviewer/#/
+* ###### The subset of the data used in this project was generated from a larger data set named: "2012 FEMA Topographic Lidar: Hudson-Hoosic and Deerfield Watersheds, Massachusetts" which was obtained from The National Oceanic and Atmospheric Administration (NOAA), specifically thier website at the following adress: https://coast.noaa.gov/dataviewer/#/
 
- - Below we have a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.
+- Below we have a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YuQWLGA870" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
