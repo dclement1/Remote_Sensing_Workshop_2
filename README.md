@@ -2,6 +2,7 @@
 ### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events,depicted in the video below, and having a better picture of specific areas which could be problematic in future flood events, could be extremely beneficial. 
 - Clicking the image below will open a link to a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.
 [![Youtube Video of a 2011 Flood](Video_scn_sht.png)](https://youtu.be/-YuQWLGA870)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YuQWLGA870" frameborder="0" allowfullscreen></iframe>
 
 
@@ -37,7 +38,7 @@
 <br>
 <hr>
 # Flood Analysis
-### For this project we will use an open source program called SAGA GIS to perform and create various analysis and visualizations. One of the first analysis we will perform is a Flood simulation showing what would happen if there was simply a 2.5 foot increase in the depth of the river and the dam could not hold it. 
+### For this project we will use an open source program called SAGA GIS to perform and create various analysis and visualizations. One of the first analysis we will perform is a Flood simulation showing what would happen if there was a 2.5 foot increase in the depth of the river and the dam could not hold it. 
 
 - In the image below we have a digital terrain model which shows the surface of the ground, which is overlayed by the flood simulation. Here the Red shadded areas signify the worst flooding and the blue areas represent less flooding.  
  ![FloodSim](dem_hillshade_dam_flood.png)
