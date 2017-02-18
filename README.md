@@ -27,7 +27,7 @@
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
 
 - Finally we have an interactive form of the pointcloud which you can manipulate and see from any angle. Please play with this to gain a better understanding of the point cloud concept. 
-(https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html)
+[![pointcloud](pointcloud_scnsht.JPG)(https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html)
 
 # Flood Analysis
 ### For this project we will use an open source program called SAGA GIS to perform and create various analysis and visualizations. One of the first analysis we will perform is a Flood simulation showing what would happen if there was simply a 2.5 foot increase in the depth of the river and the dam could not hold it. 
