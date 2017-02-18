@@ -23,10 +23,10 @@
 
 - Below we have an image of the point cloud of our data. The different colours represent various elevations. Red being higher and dark blue being lower.
 ![PointCloud](Point_Cloud_1.JPG)
-
+<br>
 - Below we have a zoomed in version of the point cloud showing how dense the points are. This data has a point density of 2 points per square meter.
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
-
+<br>
 - Finally clicking the image below will open an interactive form of the point cloud which you can manipulate and see from any angle. Please play with this to gain a better understanding of the point cloud concept. 
 [![pointcloud](pointcloud_scnsht.JPG)](https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html)
 
@@ -38,7 +38,7 @@
 
 - In the image below we have a digital terrain model which shows the surface of the ground, which is overlayed by the flood simulation. 
  ![FloodSim](dem_hillshade_dam_flood.png)
-
+<br>
 - In the image below, we are seeing is the result of the Topographic Wetness Index analysis. This uses the micro-topography, or small changes in elevation, to determine areas which would tend to hold water. This is important to visualize because it shows us areas which are more vulnerable to flooding. This knowledge can lead to better planning, which can seriously diminish the severity of future flood events. Some interesting features to note here are that to the East of the river, the wetness index is very high compared to the western side. This leads us to believe it would be beneficial to focus on this area in flood prevention planning. Another area which could be at risk is the school which is circled in red. This area is very blue, signifying this area is in a low spot and should be another area of focus.
 
 ![TOPOwetIndex](Topographic_Wetness_Index.JPG)
