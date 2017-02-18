@@ -21,7 +21,7 @@
 
 <br>
 <hr>
-# Project Area Extent
+# Project Location and Area Extent
 
 - This is a map of the location of the project made with ESRI's ArcGIS. 
 ![This is map of the location of the project.](insetmap.png)
