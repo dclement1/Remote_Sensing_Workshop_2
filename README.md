@@ -2,7 +2,7 @@
 ### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events, and having a better picture of specific areas which could be problematic in future flood events, could be extremely beneficial. 
 [![Youtube Video of a 2011 Flood](Video_scn_sht.png)](https://youtu.be/-YuQWLGA870)
 
--This is a link to a youtube video of a flood caused by Hurricane Irene in 2011
+- This is a link to a youtube video of a flood caused by Hurricane Irene in 2011
 
 # Area Extent
 ![This is map of the location of the project.](insetmap.png)
@@ -17,14 +17,14 @@
 ### Our main data source was a LIDAR point cloud obtained from the National Oceanic and Atmospheric Administration’s coastal LIDAR data portal. LIDAR, which is a type of sensor that is generally on an airplane or satelite, fires laser pulses at the ground, and records their return signatures. This gives us a very accurate representation of the elevation of the surface of what the laser pulse hit. The resulting set of elevation points is what we refer to as a Point Cloud. The point cloud for our Data is made of 2,093,340 points. 
 
 
--Below we have an image of the point cloud of our data. The different colours represent various elevations. 
+- Below we have an image of the point cloud of our data. The different colours represent various elevations. 
 ![PointCloud](Point_Cloud_1.JPG)
 
 -Below we have a zoomed in version of the point cloud showing just how dense the points are. 
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
 
-#Flood Analysis
-For this project we will use an open source program called SAGA GIS to perform and create various analysis and visualizations. One of the first analysis we will perform is a Flood simulation showing what would happen if there was simply a 2.5 foot increase in the depth of the river and the dam could not hold it. 
+# Flood Analysis
+### For this project we will use an open source program called SAGA GIS to perform and create various analysis and visualizations. One of the first analysis we will perform is a Flood simulation showing what would happen if there was simply a 2.5 foot increase in the depth of the river and the dam could not hold it. 
 
 - In this image below we have a digital terrain model which shows the surface of the ground, which is overlayed by the flood simulation. 
  ![FloodSim](dem_hillshade_dam_flood.png)
