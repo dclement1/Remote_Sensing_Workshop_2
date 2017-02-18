@@ -76,17 +76,15 @@
 <hr>
 
 # Further Readings
-###
-1. [Flood-Inundation Maps for the Deerfield River, Franklin County, Massachusetts, From the Confluence With the Cold River Tributary to the Connecticut River; USGS](https://pubs.usgs.gov/sir/2015/5104/sir20155104.pdf)
+1. [Flood-Inundation Maps for the Deerfield River, Franklin County, Massachusetts, From the Confluence With the Cold River Tributary to the Connecticut River; USGS](https://pubs.usgs.gov/sir/2015/5104/sir20155104.pdf) https://pubs.usgs.gov/sir/2015/5104/sir20155104.pdf
 
 <br>
 <hr>
 
 # Applications used:
-###
-1. SAGA GIS                  http://www.saga-gis.org/en/index.html 
-2. RapidLasso's LAStools     https://rapidlasso.com/lastools/
-3. ESRI's ArcGIS             http://www.esri.com/arcgis/about-arcgis
-4. GitHub                    https://github.com/
+1. SAGA GIS                  [http://www.saga-gis.org/en/index.html](http://www.saga-gis.org/en/index.html) 
+2. RapidLasso's LAStools     [https://rapidlasso.com/lastools/](https://rapidlasso.com/lastools/)
+3. ESRI's ArcGIS             [http://www.esri.com/arcgis/about-arcgis](http://www.esri.com/arcgis/about-arcgis)
+4. GitHub                    [https://github.com/](https://github.com/)
 
 ##### **Project By: Daniel Clement**
