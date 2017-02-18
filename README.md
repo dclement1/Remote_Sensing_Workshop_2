@@ -4,9 +4,11 @@
 
 - *Below we have a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PQ3076Gs8-c" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-YuQWLGA870" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=p47txwmuwCY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p47txwmuwCY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
 <br>
