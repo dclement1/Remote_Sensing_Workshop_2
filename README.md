@@ -52,3 +52,6 @@
 <hr>
 # Conclusions
 ### In this project we looked at the town of Shelburne Falls, located in North Western Massachusetts, U.S.A. our goals were to analyze the flood risk posed in a theoretical 2.5 foot flood. As a result of this analysis we have identified several areas which could be succeptable to flooding in the future. 
+
+
+##### *Project By: Daniel Clement*
