@@ -32,6 +32,8 @@
 - Finally clicking the image below will open an interactive form of the point cloud which you can manipulate and see from any angle. Please play with this to gain a better understanding of the point cloud concept. 
 [![pointcloud](pointcloud_scnsht.JPG)](https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html)
 
+<iframe width="560" height="315" src="https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 
 <br>
 <hr>
