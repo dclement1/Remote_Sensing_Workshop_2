@@ -3,7 +3,7 @@
 - Clicking the image below will open a link to a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.
 [![Youtube Video of a 2011 Flood](Video_scn_sht.png)](https://youtu.be/-YuQWLGA870)
 
-
+<br>
 # Project Area Extent
 
 - This is a map of the location of the project
