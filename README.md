@@ -40,7 +40,7 @@
 # Flood Analysis
 ### For this project we will use an open source program called SAGA GIS to perform and create various analysis and visualizations. One of the first analysis we will perform is a Flood simulation showing what would happen if there was a 2.5 foot increase in the depth of the river and the dam could not hold it. 
 
-- *In the image below we have a digital terrain model which shows the surface of the ground, which is overlayed by the flood simulation. Here the Red shadded areas signify the worst flooding and the blue areas represent less flooding.*
+- *In the image below we have a digital terrain model which shows the surface of the ground, which is overlayed by the flood simulation. Here the red shadded areas signify the worst flooding and the blue areas represent less flooding.*
  ![FloodSim](dem_hillshade_dam_flood.png)
  
 
