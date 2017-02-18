@@ -1,6 +1,6 @@
 # Shelburne Falls, MA, U.S.A.
 ### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events, and having a better picture of specific areas which could be problematic in future flood events, could be extremely beneficial. 
-- Below is a link to a youtube video of flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011
+- Clicking the picture below will open a link to a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.
 [![Youtube Video of a 2011 Flood](Video_scn_sht.png)](https://youtu.be/-YuQWLGA870)
 
 
@@ -26,7 +26,7 @@
 - Below we have a zoomed in version of the point cloud showing how dense the points are. This data has a point density of 2 points per square meter.
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
 
-- Finally we have an interactive form of the pointcloud which you can manipulate and see from any angle. Please play with this to gain a better understanding of the point cloud concept. 
+- Finally clicking the image below will open an interactive form of the point cloud which you can manipulate and see from any angle. Please play with this to gain a better understanding of the point cloud concept. 
 [![pointcloud](pointcloud_scnsht.JPG)](https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html)
 
 # Flood Analysis
