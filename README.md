@@ -29,7 +29,7 @@
 # A Bit about Remote Sensing and LIDAR
 ### Our main data source was a LIDAR point cloud obtained from the National Oceanic and Atmospheric Administration’s coastal LIDAR data portal. LIDAR, which is a type of sensor that is generally on an airplane or satelite, fires laser pulses at the ground, and records their return signatures. This gives us a very accurate representation of the elevation of the surface of what the laser pulse hit. The resulting set of elevation points is what we refer to as a Point Cloud. The point cloud for our Data is made of 2,093,340 points. 
 
-- *The first image below is an illustration of how LIDAR sensors are used to collect data. LIDAR sensors are commonly placed in the belly of light aircraft flying at relatively low altitude.  Source: LIDAR-America.com*
+- *The first image below is an illustration of how LIDAR sensors are used to collect data. LIDAR sensors are commonly placed in the belly of light aircraft, flying at relatively low altitude.  Source: LIDAR-America.com*
 ![LidarIllust](LIDAR.jpg)
 
 
@@ -50,7 +50,7 @@
 # Flood Analysis
 ### For this project we will use an open source program called SAGA GIS to perform and create various analysis and visualizations. One of the first analysis we will perform is a Flood simulation showing what would happen if there was a 2.5 foot increase in the depth of the river and the dam could not hold it. 
 
-- *In the image below we have a digital terrain model which shows the surface of the ground, which is overlayed by the flood simulation. Here the red shadded areas signify the worst flooding and the blue areas represent less flooding.*
+- *In the image below we have a digital terrain model which shows the surface of the ground, which is overlayed by the flood simulation. This shows that there are several buldings and houses at risk inside the flood zone. Here the red shadded areas signify the worst flooding and the blue areas represent less flooding.*
  ![FloodSim](dem_hillshade_dam_flood.png)
  
 
@@ -61,7 +61,18 @@
 <br>
 <hr>
 # Conclusions
-### In this project we looked at the town of Shelburne Falls, located in North Western Massachusetts, U.S.A. our goals were to analyze the flood risk posed in a theoretical 2.5 foot flood. As a result of this analysis we have identified several areas which could be succeptable to flooding in the future. 
+### In this project we looked at the town of Shelburne Falls, located in North Western Massachusetts, U.S.A. our goals were to analyze the flood risk posed in a theoretical 2.5 foot flood. As a result of this analysis we have identified several areas which could be succeptable to flooding in the future.
 
+<br>
+<hr>
+# Recommendations
+### As past events clearly illustrate, this 
+
+
+#Further Readings
+### 
+[Flood-Inundation Maps for the Deerfield River, Franklin
+County, Massachusetts, From the Confluence With the
+Cold River Tributary to the Connecticut River; USGS](https://pubs.usgs.gov/sir/2015/5104/sir20155104.pdf)
 
 ##### *Project By: Daniel Clement*
