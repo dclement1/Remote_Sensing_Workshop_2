@@ -1,8 +1,10 @@
 # Shelburne Falls, MA, U.S.A.
-### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events,depicted in the video below, and having a better picture of specific areas which could be problematic in future flood events, could be extremely beneficial. 
-* ###### The subset of the data used in this project was generated from a larger data set named: "2012 FEMA Topographic Lidar: Hudson-Hoosic and Deerfield Watersheds, Massachusetts" which was obtained from The National Oceanic and Atmospheric Administration (NOAA), specifically thier website at the following adress: https://coast.noaa.gov/dataviewer/#/
+### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events, depicted in the video below. Having a better picture of specific areas which could be problematic in future flood events would be extremely useful. To this end I have performed analysis on the area and will make recommendations on problem areas that opfficial government planners, as well as first response agencies such as FEMA, as well as local authorities.
+* ###### The subset of the data used in this project was generated from a larger data set entitled: "2012 FEMA Topographic Lidar: Hudson-Hoosic and Deerfield Watersheds, Massachusetts" which was itself obtained from The National Oceanic and Atmospheric Administration (NOAA), and their website at the following links: 
+ 1. [NOAA Costal Data](https://coast.noaa.gov/dataviewer/#/)
+ 2. [Direct Link to Project Data](https://coast.noaa.gov/dataviewer/#/lidar/search/-8098894.886584386,5250798.662221772,-8095932.951738335,5254343.429408497)*
 
-- *Below we have a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.*
+- *Below we two youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.These show the true power and devastation of these flood events and illustrate why it is important to do studies such as this one*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YuQWLGA870" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -28,11 +30,11 @@
 ### Our main data source was a LIDAR point cloud obtained from the National Oceanic and Atmospheric Administration’s coastal LIDAR data portal. LIDAR, which is a type of sensor that is generally on an airplane or satelite, fires laser pulses at the ground, and records their return signatures. This gives us a very accurate representation of the elevation of the surface of what the laser pulse hit. The resulting set of elevation points is what we refer to as a Point Cloud. The point cloud for our Data is made of 2,093,340 points. 
 
 
-- *Below we have an image of the point cloud of our data. The different colours represent various elevations. Red being higher and dark blue being lower.*
+- *Below we have an image of the point cloud of our data. The different colours represent various elevations. Red being higher and dark blue being lower in elevation.*
 ![PointCloud](Point_Cloud_1.JPG)
 
 
-- 8Below we have a zoomed in version of the point cloud showing how dense the points are. This data has a point density of 2 points per square meter.*
+- Below we have a zoomed in version of the point cloud showing how dense the points are. This data has a point density of 2 points per square meter.*
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
 
 
