@@ -1,5 +1,7 @@
 # Shelburne Falls, MA, U.S.A.
 ### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events,depicted in the video below, and having a better picture of specific areas which could be problematic in future flood events, could be extremely beneficial. 
+* The data used in this project was obtained through The National Oceanic and Atmospheric Administration (NOAA) from thier website at the following adress: https://coast.noaa.gov/dataviewer/#/
+
 - Below we have a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YuQWLGA870" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -45,3 +47,8 @@
 - In the image below, we are seeing is the result of the Topographic Wetness Index analysis. This uses the micro-topography, or small changes in elevation, to determine areas which would tend to hold water. This is important to visualize because it shows us areas which are more vulnerable to flooding. This knowledge can lead to better planning, which can seriously diminish the severity of future flood events. Some interesting features to note here are that to the East of the river, the wetness index is very high compared to the western side. This leads us to believe it would be beneficial to focus on this area in flood prevention planning. Another area which could be at risk is the school which is circled in red. This area is very blue, signifying this area is in a low spot and should be another area of focus.
 
 ![TOPOwetIndex](Topographic_Wetness_Index.JPG)
+
+<br>
+<hr>
+# Conclusions
+### In this project we looked at the town of Shelburne Falls, located in North Western Massachusetts, U.S.A. our goals were to analyze the flood risk posed in a theoretical 2.5 foot flood. The results of this analysis 
