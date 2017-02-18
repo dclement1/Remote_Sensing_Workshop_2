@@ -1,6 +1,6 @@
 # Shelburne Falls, MA, U.S.A.
 ### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events, and having a better picture of specific areas which could be problematic in future flood events, could be extremely beneficial. 
-- Clicking the picture below will open a link to a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.
+- Clicking the image below will open a link to a youtube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011.
 [![Youtube Video of a 2011 Flood](Video_scn_sht.png)](https://youtu.be/-YuQWLGA870)
 
 
