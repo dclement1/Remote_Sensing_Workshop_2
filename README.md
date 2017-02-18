@@ -4,6 +4,7 @@
 [![Youtube Video of a 2011 Flood](Video_scn_sht.png)](https://youtu.be/-YuQWLGA870)
 
 <br>
+<hr>
 # Project Area Extent
 
 - This is a map of the location of the project
