@@ -82,9 +82,9 @@
 <hr>
 
 # Applications used:
-1. SAGA GIS                  [http://www.saga-gis.org/en/index.html](http://www.saga-gis.org/en/index.html) 
-2. RapidLasso's LAStools     [https://rapidlasso.com/lastools/](https://rapidlasso.com/lastools/)
-3. ESRI's ArcGIS             [http://www.esri.com/arcgis/about-arcgis](http://www.esri.com/arcgis/about-arcgis)
-4. GitHub                    [https://github.com/](https://github.com/)
+1. SAGA GIS -                  [http://www.saga-gis.org/en/index.html](http://www.saga-gis.org/en/index.html) 
+2. RapidLasso's LAStools -     [https://rapidlasso.com/lastools/](https://rapidlasso.com/lastools/)
+3. ESRI's ArcGIS -             [http://www.esri.com/arcgis/about-arcgis](http://www.esri.com/arcgis/about-arcgis)
+4. GitHub -                    [https://github.com/](https://github.com/)
 
 ##### **Project By: Daniel Clement**
