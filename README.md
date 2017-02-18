@@ -43,11 +43,11 @@
 ![PointCloud](Point_Cloud_1.JPG)
 
 
-- Below is a zoomed in version of the point cloud showing how dense the points are. This data has a point density of 2 points per square meter.*
+- *Below is a zoomed in version of the point cloud showing how dense the points are. This data has a point density of 2 points per square meter.*
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
 
 
-- *Below is an interactive form of the point cloud, which you can manipulate and see from any angle and zoom in on. Please play with this to gain a better understanding of the point cloud concept. *
+- *Below is an interactive form of the point cloud, which you can manipulate and see from any angle and zoom in on. Please play with this to gain a better understanding of the point cloud concept.*
 <iframe width="560" height="315" src="https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
