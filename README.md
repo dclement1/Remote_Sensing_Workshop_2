@@ -29,8 +29,8 @@
 # A Bit about Remote Sensing and LIDAR
 ### Our main data source was a LIDAR point cloud obtained from the National Oceanic and Atmospheric Administration’s coastal LIDAR data portal. LIDAR, which is a type of sensor that is generally on an airplane or satelite, fires laser pulses at the ground, and records their return signatures. This gives us a very accurate representation of the elevation of the surface of what the laser pulse hit. The resulting set of elevation points is what we refer to as a Point Cloud. The point cloud for our Data is made of 2,093,340 points. 
 
-- *The first image below is an illustration of how LIDAR is collecte. Source: LIDAR-America.com*
-![LidarIllust](LIDAR.JPG)
+- *The first image below is an illustration of how LIDAR is collected. LIDAR sensors are commonly placed in the belly of light aircraft.  Source: LIDAR-America.com*
+![LidarIllust](LIDAR.jpg)
 
 
 - *Below we have an image of the point cloud of our data. The different colours represent various elevations. Red being higher and dark blue being lower in elevation.*
