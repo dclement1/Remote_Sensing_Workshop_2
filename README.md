@@ -1,4 +1,8 @@
 # Shelburne Falls, MA, U.S.A.
+##### **Project By: Daniel Clement**
+
+<hr>
+
 ### For this project I wanted to look at the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events, depicted in the video below. Having a better picture of specific areas which could be problematic in future flood events would be extremely useful. To this end I have performed analysis on the area and will make recommendations on problem areas that opfficial government planners, as well as first response agencies such as FEMA, as well as local authorities.
 * ###### The subset of the data used in this project was generated from a larger data set entitled: "2012 FEMA Topographic Lidar: Hudson-Hoosic and Deerfield Watersheds, Massachusetts" which was itself obtained from The National Oceanic and Atmospheric Administration (NOAA), and their website at the following links:
  1. [NOAA Costal Data](https://coast.noaa.gov/dataviewer/#/)
@@ -75,4 +79,7 @@
 County, Massachusetts, From the Confluence With the
 Cold River Tributary to the Connecticut River; USGS](https://pubs.usgs.gov/sir/2015/5104/sir20155104.pdf)
 
-##### *Project By: Daniel Clement*
+<br>
+<hr>
+
+##### **Project By: Daniel Clement**
