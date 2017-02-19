@@ -3,7 +3,7 @@
 
 <hr>
 
-### This project will examine the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events, depicted in the video below. Having a better picture of specific areas which could be problematic in future flood events would be extremely useful. To this end I have performed analysis on the area and will make recommendations on problem areas that official government planners, first response agencies such as FEMA, as well as local authorities can focus on while planning for future disasters.
+### This project will examine the flood risk posed by the Deerfield River, on the town of Shelburne Falls, Massachusetts. This town has been affected in the past by flood events, depicted in the video below. Having a better picture of specific areas which could be problematic in future flood events would be extremely useful. To this end I have performed analysis on the area and will make recommendations on problem areas that official government planners, first response agencies such as FEMA, as well as local authorities can focus on, while planning for future disasters.
 * ###### The subset of the data used in this project was generated from a larger data set entitled: "2012 FEMA Topographic Lidar: Hudson-Hoosic and Deerfield Watersheds, Massachusetts" which was itself obtained from The National Oceanic and Atmospheric Administration (NOAA), and their website at the following links:
  1. [NOAA Costal Data](https://coast.noaa.gov/dataviewer/#/) -
     https://coast.noaa.gov/dataviewer/#/
