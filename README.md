@@ -47,7 +47,7 @@
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
 
 
-- *Below is an interactive form of the point cloud, which you can manipulate and see from any angle and zoom in on. To pan the camera, click and hold down the left mouse button, while gragging the image around. To zoom you use the scroll wheel on the mouse. Please spend a few minutes with this 3d visualization to gain a better understanding of the point cloud concept.*
+- *Below is an interactive form of the point cloud, which you can manipulate and see from any angle and zoom in on. To pan the camera, click and hold down the left mouse button, while dragging the image around. To zoom you use the scroll wheel on the mouse. Please spend a few minutes with this 3d visualization to gain a better understanding of the point cloud concept.*
 
 <iframe width="560" height="315" src="https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -55,13 +55,13 @@
 <br>
 <hr>
 # Flood Analysis
-### For this project we will use an open source program called SAGA GIS was used to perform and create various analysis and visualizations. One of the first analysis performed is a flood simulation showing what would happen if there was a 2.5 foot increase in the depth of the river and the dam overflowed. 
+### To perform the analysis, an open source program called SAGA GIS was used to perform and create various analysis and visualizations. One of the first analysis performed is a flood simulation showing what would happen if there was a 2.5 foot increase in the depth of the river and the dam overflowed. 
 
 - *Below there is a digital terrain model, showing the surface of the ground, this is overlayed by the flood simulation. Looking at this it becomes evident that there are several buldings and houses at risk inside the flood zone.The red shadded areas signify the worst flooding and the blue areas represent less flooding.*
  ![FloodSim](dem_hillshade_dam_flood.png)
  
 
-- *The image below, displays the result of the Topographic Wetness Index analysis. This uses the micro-topography, or small changes in elevation, to determine areas which would tend to hold water. This is important to visualize because it shows us areas which are more vulnerable to flooding. In addition, this knowledge can lead to better planning, which can seriously diminish the severity of the effects of future flood events. Some interesting features to note here are that to the East of the river, the wetness index is very high compared to the western side. This leads us to believe it would be beneficial to focus on this area in flood prevention planning. Another area which could be at risk is the school which is circled in red. This area is very blue, signifying this area is in a low spot and should be another area of focus.*
+- *The image below, displays the result of the Topographic Wetness Index analysis. This uses the micro-topography, or small changes in elevation, to determine areas which would tend to hold water. This is important to visualize because it highlights areas which are more vulnerable to flooding. In addition, this knowledge can lead to better planning, which can seriously diminish the severity of the effects of future flood events. Some interesting features to note here are that to the East of the river, the wetness index is very high compared to the western side. This leads us to believe it would be beneficial to focus on this area in flood prevention planning. Another area which could be at risk is the school which is circled in red. This area is very blue, signifying this area is in a low spot and should be another area of focus.*
 
 ![TOPOwetIndex](Topographic_Wetness_Index.JPG)
 
