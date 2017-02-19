@@ -10,7 +10,8 @@
  2. [Direct Link to Project Data](https://coast.noaa.gov/dataviewer/#/lidar/search/-8098894.886584386,5250798.662221772,-8095932.951738335,5254343.429408497) - https://coast.noaa.gov/dataviewer/#/lidar/search/-8098894.886584386,5250798.662221772,-8095932.951738335,5254343.429408497
 
 
-- *Below are two YouTube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011. They show the true power and devastation of these flood events and illustrate why it is important to do studies such as this one.*
+- *Below are two YouTube video of the flooding in the town of Shelburne Falls which was caused by Hurricane Irene in 2011. They show the true power and devastation of these flood events and illustrate why it is important to do studies such as this one. The first video was posted to youtube by the user "Wanda P" and the second video was posted to youtube by the user "
+Pilotwear & Diecast Airplane".*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YuQWLGA870" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
