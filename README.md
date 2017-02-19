@@ -47,7 +47,8 @@
 ![PointCloudZoom](Point_Cloud_zoom.JPG)
 
 
-- *Below is an interactive form of the point cloud, which you can manipulate and see from any angle and zoom in on. Please play with this to gain a better understanding of the point cloud concept.*
+- *Below is an interactive form of the point cloud, which you can manipulate and see from any angle and zoom in on. To pan the camera, click and hold down the left mouse button, while gragging the image around. To zoom you use the scroll wheel on the mouse. Please spend a few minutes with this 3d visualization to gain a better understanding of the point cloud concept.*
+
 <iframe width="560" height="315" src="https://dl.dropboxusercontent.com/u/106681985/Daniel_Clement_Site/portal.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
